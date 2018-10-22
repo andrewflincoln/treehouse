@@ -33,7 +33,8 @@ const treehouses = [
   {
     title: 'Donkey Kong\'s House',
     img: 'http://www.zeldauniverse.net/wp-content/uploads/2013/09/donkey_and_diddy_kong_by_shygal12-d33o46l.jpg',
-    Description: 'Banthas are creatures in the Star Wars universe. They are large elephant-sized mounts, with long furry tails, that are native to the planet of Tatooine.[2] They were found throughout the galaxy on several worlds, and are easily domesticated. They were used for transportation, carrying heavy loads, and as beasts of war.'
+    Description: 'Banthas are creatures in the Star Wars universe. They are large elephant-sized mounts, with long furry tails, that are native to the planet of Tatooine.[2] They were found throughout the galaxy on several worlds, and are easily domesticated. They were used for transportation, carrying heavy loads, and as beasts of war.',
+    contributor: 'Andrew'
   }
 
 ]
