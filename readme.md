@@ -1,13 +1,1 @@
-# Treehouse Git Branch
-
-Project for practicing branching, pulling, and merging with Git and GitHub. Here is my stuff.
-
-## Instructions
-
-1. Fork/clone
-
-1. `npm install`
-
-1. `npm run build`
-
-1. `npm run dev`
+The tree has the finest amendities. It comes with full spa and mud bath. The views are like no other believe me. It's $1000 a day. Bring the family if you want to have an experience of an life time.
